@@ -200,8 +200,9 @@ h5 {
     display: flex;
     gap: 10px;
     flex-wrap: wrap;
-    padding: 0;
+    padding: 30px;
     margin: 0;
+    border-bottom: 1px solid lightgray;
   }
   
   .categories li {
