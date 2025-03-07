@@ -163,9 +163,10 @@ h5 {
   }
   
   .post .author {
-    font-weight: bold;
     margin: 5px 0;
     color: #555;
+    display: flex;
+    align-items: center;
   }
   
   .post .description {
